@@ -8,7 +8,7 @@ in the `nextNumber()` method in *FizzbuzzApplication.java*.
 The rules are simple:
 * If the current number is divisible by 3, "Fizz" should be printed to the screen
 * If the current number is divisible by 5, "Buzz" should be printed to the screen
-* If the current number is divisible by both 3 and 5, "FizzBuzz" should be printed to the screen.
+* If the current number is divisible by both 3 and 5, "FizzBuzz" should be printed to the screen
 * If none of these conditions are met, the current number should be printed to the screen
 
 ### Example Output (first 15 numbers only)
