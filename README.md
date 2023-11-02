@@ -9,3 +9,26 @@ The rules are simple:
 * If the current number is divisible by 3, "Fizz" should be printed to the screen
 * If the current number is divisible by 5, "Buzz" should be printed to the screen
 * If the current number is divisible by both 3 and 5, "FizzBuzz" should be printed to the screen.
+* If none of these conditions are met, the current number should be printed to the screen
+
+### Example Output (first 15 numbers only)
+```
+Running FizzBuzz for 100 numbers!
+
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
+Buzz
+11
+Fizz
+13
+14
+FizzBuzz
+...
+```
